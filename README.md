@@ -1,2 +1,3 @@
-# demo
-author-BrijeshYadav
+#demo
+this is my first repository
+Author-Brijesh Yadav
